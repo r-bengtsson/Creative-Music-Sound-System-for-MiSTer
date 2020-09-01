@@ -93,9 +93,7 @@ M
 * Miami Vice (1989)
 * Mixed-Up Fairy Tales (1991)
 * Mixed-Up Mother Goose (1991)
-<p>
-SCI and VGA version, not AGI
-</p>
+    * SCI and VGA version, not AGI
 
 N
 * Night Shift (1990)
