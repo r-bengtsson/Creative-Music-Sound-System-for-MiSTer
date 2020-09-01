@@ -59,31 +59,67 @@ H
 EGA + VGA Version
 </p>
 
-<br>
+
 I
 * Indiana Jones and the Last Crusade - The Graphic Adventure (1989)
 
 J
-*
+* J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990)
+* Jack Nicklaus' Unlimited Golf & Course Design (1990)
+* Joe Montana Football (1990)
+* Jones in the Fast Lane (1991)
 
 K
-*
+* Keef the Thief - A Boy and His Lockpick (1989)
+* King's Quest IV - The Perils of Rosella (1988)
+* King's Quest V - Absence Makes the Heart Go Yonder! (1990)
 
 L
+* Lakers versus Celtics and the NBA Playoffs (1989)
 * Laura Bow 1 - The Colonel's Bequest (1989)
 * Laura Bow 2 - The Dagger of Amon Ra (1992)
+* Leisure Suit Larry 1 In the Land of the Lounge Lizards (1991)
+<p>
+VGA version only
+</p>
+
+* Leisure Suit Larry Goes Looking for Love (In Several Wrong Places) (1988)
+* Leisure Suit Larry 3 - Passionate Patti in Pursuit of the Pulsating Pectorals (1989)
+* Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work (1991)
+* Les Manley in Search for the King (1990)
+* Loom (1990)
 
 M
-*
+* Miami Vice (1989)
+* Mixed-Up Fairy Tales (1991)
+* Mixed-Up Mother Goose (1991)
+<p>
+SCI and VGA version, not AGI
+</p>
 
 N
-*
+* Night Shift (1990)
+* NY Warriors (1991)
 
 O
-*
+* Oil's Well (1990)
+* Operation Wolf (1989)
 
 P
-*
+* Paku Paku (2011)
+* PGA Tour Golf (1990)
+* Police Quest - In Pursuit of the Death Angel (1992)
+<p>
+VGA only, not AGI
+</p>
+* Police Quest 2 - The Vengeance (1988)
+* Police Quest 3 - The Kindred (1991)
+* Power Drift (1990)
+* Prince of Persia (1990)
+<p>
+Version 1.0 use POPKB.COM.
+</p>
+* Puzznic (1990)
 
 Q
 *
