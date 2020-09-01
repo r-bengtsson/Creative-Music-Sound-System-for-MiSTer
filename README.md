@@ -55,7 +55,9 @@ H
 * Hoyle - Official Book of Games - Volume 1 (1989)
 * Hoyle - Official Book of Games - Volume 2 (1990)
 * Hoyle - Official Book of Games - Volume 3 (1991)
+```
 EGA + VGA Version
+```
 
 I
 * Indiana Jones and the Last Crusade - The Graphic Adventure (1989)
