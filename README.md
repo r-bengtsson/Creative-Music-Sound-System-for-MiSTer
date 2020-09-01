@@ -18,7 +18,7 @@ A
     * ´´´AIRBALL.EXE /CMS´´´
 
 * Altered Destiny (1990) by Accolade
-    * Patch needed to remove autodetection: ´´´EXE.EXE at HEX 1910E, 75 --> 74´´´ (patch by CarlosTex)
+    * Patch needed to remove autodetection: ´´´EXE.EXE at HEX 1910E | 75 --> 74´´´ (patch by CarlosTex)
 
 * Arkanoid: Revenge of DOH (1989) by Taito
     * Special Edition only
@@ -59,7 +59,7 @@ C
 
 D
 * Day of the Viper (1990) by Accolade
-    * Patch needed to set CMS: ´´´VIPER.EXE at HEX 139D3, FF --> 02´´´ (patch by NewRisingSun)
+    * Patch needed to set CMS: ´´´VIPER.EXE at HEX 139D3 | FF --> 02´´´ (patch by NewRisingSun)
     * Adlib needs Sound Blaster Drivers
 
 * Don't Go Alone (1989) by Sterling Silver Software
@@ -80,10 +80,10 @@ F
 G
 * Game of Harmony, The (1990) by Assembly Line
     * NOT E-Motion
-    * Patch needed to set CMS: ´´´MAIN at HEX 28B, 0F --> 02´´´ (patch by NewRisingSun)
+    * Patch needed to set CMS: ´´´MAIN at HEX 28B | 0F --> 02´´´ (patch by NewRisingSun)
 
 * Gunboat (1990) by Accolade
-    * Patch needed to set CMS: ´´´GB.EXE at HEX 216D, 0F --> 02´´´ (patch by NewRisingSun)
+    * Patch needed to set CMS: ´´´GB.EXE at HEX 216D | 0F --> 02´´´ (patch by NewRisingSun)
     * Adlib needs Sound Blaster Drivers
 
 
