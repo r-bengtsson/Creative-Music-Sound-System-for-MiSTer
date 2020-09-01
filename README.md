@@ -4,5 +4,19 @@ A place to gather information on how to get games compatible with the CMS/Game B
 
 Most information has been gathered from these sources:
 
-https://nerdlypleasures.blogspot.com/2012/10/all-you-ever-wanted-to-know-about.html
-https://www.vogons.org/viewtopic.php?t=58927
+* https://nerdlypleasures.blogspot.com/2012/10/all-you-ever-wanted-to-know-about.html
+* https://www.vogons.org/viewtopic.php?t=58927
+
+## Information
+
+
+
+## Game List
+
+A
+* Airball (1987) by MicroDeal
+* Altered Destiny (1990) by Accolade
+* Arkanoid - Revenge of DOH (1989) by Taito
+
+B
+* 
