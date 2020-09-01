@@ -13,7 +13,7 @@ Most information has been gathered from these sources:
 
 ## Games List - Sound CONFIRMED WORKING
 
-A
+**A**
 * Airball (1987) by MicroDeal
     * ´´´AIRBALL.EXE /CMS´´´
 
@@ -26,7 +26,7 @@ A
 
 
 
-B
+**B**
 * Bad Blood (1990) by ORIGIN
 * Battle Chess II: Chinese Chess (1990) by Interplay
     * Only SFX
@@ -42,7 +42,7 @@ B
 
 
 
-C
+**C**
 * Castle of Dr. Brain (1991) by Sierra On-Line
 * Champions of Krynn (1990) by Strategic Simulations
     * Delete ´´´KRYNN.CFG´´´ and run game
@@ -57,7 +57,7 @@ C
 
 
 
-D
+**D**
 * Day of the Viper (1990) by Accolade
     * Patch needed to set CMS: ´´´VIPER.EXE at HEX 139D3 | FF --> 02´´´ (patch by NewRisingSun)
     * Adlib needs Sound Blaster Drivers
@@ -66,18 +66,18 @@ D
 
 
 
-E
+**E**
 * EcoQuest: The Search for Cetus (1991) by Sierra On-Line
 * Elvira (1990) by Horror Soft
 
 
 
-F
+**F**
 * F-14 Tomcat (1990) by Activision
 
 
 
-G
+**G**
 * Game of Harmony, The (1990) by Assembly Line
     * NOT E-Motion
     * Patch needed to set CMS: ´´´MAIN at HEX 28B | 0F --> 02´´´ (patch by NewRisingSun)
@@ -88,7 +88,7 @@ G
 
 
 
-H
+**H**
 * Hero's Quest: So You Want to Be a Hero (1989) by Sierra On-Line
 * Hoyle: Official Book of Games - Volume 1 (1989) by Sierra On-Line
 * Hoyle: Official Book of Games - Volume 2 (1990) by Sierra On-Line
@@ -97,7 +97,7 @@ H
 
 
 
-I
+**I**
 * Indiana Jones and the Last Crusade: The Graphic Adventure (1989) by Lucasfilm Games
     * All VGA versions, run ´´´INDY256.EXE G´´´
     * Only EGA version 1.4, run ´´´INDY3.EXE GAMEB´´´
@@ -106,7 +106,7 @@ I
 
 
 
-J
+**J**
 * J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990) by Interplay
     * SFX Only
 
@@ -120,7 +120,7 @@ J
 
 
 
-K
+**K**
 * Keef the Thief: A Boy and His Lockpick (1989) by Naughty Dog
     * Need to install the game with CMS option to get CMS driver file ´´´CKEEF.SMB´´´
 * King's Quest (1990) by Sierra On-Line
