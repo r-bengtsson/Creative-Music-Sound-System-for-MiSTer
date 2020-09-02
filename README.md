@@ -37,7 +37,7 @@ A user named Tronix on the Vogons forum has made a midi driver using the Miles S
 It involves a little more work to get those games working.
 Checkout the link below to see an example:
 
-* [Warcraft 2](https://www.youtube.com/watch?v=RM3cuSSXbrE) (sounds really bad, but cool idea).
+* [Warcraft 2](https://www.youtube.com/watch?v=RM3cuSSXbrE).
 
 You can find more information about that in the [VOGONS.org forum](https://www.vogons.org/viewtopic.php?f=24&t=43553&p=423974).
 
