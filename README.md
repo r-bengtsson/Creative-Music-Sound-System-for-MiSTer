@@ -34,7 +34,7 @@ _ _ _
 ## Creative Music System and the Miles Sound System
 
 A user named Tronix on the Vogons forum has made a midi driver using the Miles Sound System drivers to make alot more games compatible with the CMS.
-It involves a little more work to get those games working.
+It involves a little more work to get those games working, checkout [Warcraft 2](https://www.youtube.com/watch?v=RM3cuSSXbrE) (sounds really bad, but cool idea).
 
 You can find more information about that in the [VOGONS.org forum](https://www.vogons.org/viewtopic.php?f=24&t=43553&p=423974)
 I have saved the CMS MSS drivers in the Files / System Drivers folder for preservation.
