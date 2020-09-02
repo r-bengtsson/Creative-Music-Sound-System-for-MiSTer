@@ -13,7 +13,7 @@ _ _ _
 
 ## General Tips
 
-For the majority of the games that support CMS, it is only needed to configure the game correctly via the SETUP/INSTALL/CONFIG.
+For the majority of the games that support CMS, it is only needed to configure the game correctly via the SETUP/INSTALL/CONFIG (this is true for all games without any extra information in the list).
 For some games, it is required to pass on commands to the main EXE. I have created .BATs for these games, look in the Files/Game BATs folder.
 
 If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORKING, then it could be one of several problems:
@@ -27,6 +27,17 @@ If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORK
 5. Some games require you to run the CMSDRV.COM/SBC-CMS.COM driver before launching the game. The driver can be unloaded by adding /U command when relaunching the driver. Drivers can be found in the Files/System Drivers folder.
 
 6. If none of above options work, then you probably have the wrong version of the game.
+
+_ _ _
+
+
+## Creative Music System and the Miles Sound System
+
+A user named Tronix on the Vogons forum has made a midi driver using the Miles Sound System drivers to make alot more games compatible with the CMS.
+It involves a little more work to get those games working.
+
+You can find more information about that in the [VOGONS.org forum](https://www.vogons.org/viewtopic.php?f=24&t=43553&p=423974)
+I have saved the CMS MSS drivers in the Files / System Drivers folder for preservation.
 
 _ _ _
 
