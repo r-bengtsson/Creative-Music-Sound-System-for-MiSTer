@@ -47,7 +47,7 @@ _ _ _
 
 **B**
 * Bad Blood (1990) by ORIGIN
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 * Battle Chess II: Chinese Chess (1990) by Interplay
     * Only SFX
 
@@ -81,7 +81,7 @@ _ _ _
 * Day of the Viper (1990) by Accolade
     * Patch needed to set CMS: ´´´VIPER.EXE at HEX 139D3 | FF --> 02´´´ (patch by NewRisingSun)
     * Adlib needs Sound Blaster Drivers
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 * Don't Go Alone (1989) by Sterling Silver Software
 
@@ -95,7 +95,7 @@ _ _ _
 
 **F**
 * F-14 Tomcat (1990) by Activision
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 
 
@@ -107,7 +107,7 @@ _ _ _
 * Gunboat (1990) by Accolade
     * Patch needed to set CMS: ´´´GB.EXE at HEX 216D | 0F --> 02´´´ (patch by NewRisingSun)
     * Adlib needs Sound Blaster Drivers
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 
 
@@ -125,7 +125,7 @@ _ _ _
     * All VGA versions, run ´´´INDY256.EXE G´´´
     * Only EGA version 1.4, run ´´´INDY3.EXE GAMEB´´´
     * Adlib option seems to crash? ´´´Integer divided by 0´´´
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 
 
@@ -209,7 +209,7 @@ _ _ _
 * Police Quest 2 - The Vengeance (1988) by Sierra On-Line
 * Police Quest 3 - The Kindred (1991) by Sierra On-Line
 * Power Drift (1990) by SEGA
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 * Prince of Persia (1990) by Brøderbund Software
     * Version 1.0
@@ -242,7 +242,7 @@ _ _ _
 **S**
 * Secret of Monkey Island, The (1990) by Lucasfilm Games LLC
     * ´´´MONKEY.COM G´´´
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 * Shanghai II - Dragon's  Eye (1990) by Activision
 * Silpheed (1989) by Game Arts Co
@@ -254,7 +254,7 @@ _ _ _
 * Space Quest III - The Pirates of Pestulon (1989) by Sierra On-Line
 * Space Quest IV - Roger Wilco and the Time Rippers (1991) by Sierra On-Line
 * Spirit of Excalibur (1990) by Synergistic Software
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 * Spot (1991) by Virgin
 * Star Control (1990) by Toys for Bob
@@ -273,15 +273,16 @@ _ _ _
 
 **T**
 * Test Drive III - The Passion (1990) by Accolade
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+
 * Times of Lore (1989) by ORIGIN
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 
 
 
 **U**
 * Ultima VI - The False Prophet (1990) by ORIGIN
-    * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 50Mhz
+    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 50Mhz
 
 
 
@@ -304,11 +305,11 @@ _ _ _
 **B**
 * Breach 2 (1990) by Omnitrend Software
     * Autodetect conflict? Probably needs to be patched.
-    * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as all of the games in WORKING category
+    * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as the games in WORKING category
 
 
 
 **D**
 * Death Knights of Krynn (1991) by Strategic Simulations
     * Autodetect conflict? Probably needs to be patched.
-    * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as all of the games in WORKING category
+    * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as the games in WORKING category
