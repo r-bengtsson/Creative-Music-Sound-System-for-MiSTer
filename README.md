@@ -9,7 +9,7 @@ Most information has been gathered from these sources:
 * [Nerdly Pleasures](https://nerdlypleasures.blogspot.com/2012/10/all-you-ever-wanted-to-know-about.html)
 * [VOGONS.org](https://www.vogons.org/viewtopic.php?t=58927)
 
-
+_ _ _
 
 ## Information
 
@@ -28,7 +28,7 @@ If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORK
 
 6. If none of above options work, then you probably have the wrong version of the game.
 
-
+_ _ _
 
 ## Games List - Sound CONFIRMED WORKING
 
