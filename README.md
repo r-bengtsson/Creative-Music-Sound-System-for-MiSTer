@@ -2,7 +2,7 @@
 
 Information on how to get CMS/GB sound working on compatible games on the MiSTer ao486 core.
 
-**If you know of any other game that works, or how to get it to work, please dont hesitate to contact me in at the [MiSTer FPGA forum](https://misterfpga.org/viewforum.php?f=13) (chimaera).**
+**If you know of any other game that works, or how to get it to work, please dont hesitate to contact me in at the [MiSTer FPGA forum](https://misterfpga.org/viewtopic.php?f=13&t=1118) (chimaera).**
 
 Most information has been gathered from these sources:
 
