@@ -11,7 +11,7 @@ Most information has been gathered from these sources:
 
 _ _ _
 
-## Information
+## General Tips
 
 For the majority of the games that support CMS, it is only needed to configure the game correctly via the SETUP/INSTALL/CONFIG.
 For some games, it is required to pass on commands to the main EXE. I have created .BATs for these games, look in the Files/Game BATs folder.
@@ -299,7 +299,7 @@ _ _ _
 
 _ _ _
 
-## Games List - Sound NOT WORKING
+## Games List - Sound NOT WORKING CORRECTLY
 
 **B**
 * Breach 2 (1990) by Omnitrend Software
