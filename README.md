@@ -313,3 +313,25 @@ _ _ _
 * Death Knights of Krynn (1991) by Strategic Simulations
     * Autodetect conflict? Probably needs to be patched.
     * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as the games in WORKING category
+
+_ _ _
+
+## Games List - Games not really compatible (Perhaps not right versions?)
+
+* Blue Max: Aces of the Great War (1990) by Three-Sixty Pacific
+    * Box claims support but seems to be Adlib only
+
+* Das Boot: German U-Boat Simulation (1990) by Three-Sixty Pacific
+    * Box claims support but seems to be Adlib only
+
+* Hoverforce (1990) by Millennium Interactive
+* Jordan vs Bird: One on One (1988) by Electronic Arts
+* Monte Carlo Baccarat (1991) by Capstone Software
+* Sargon V: World Class Chess (1991) by Activision
+* Secret of the Silver Blades (1990) by Strategic Simulations
+* Stratego (1990) by Accolade
+* Trump Castle II (1991) by Capstone Software
+* Wing Commander II: Vengeance of the Kilrathi (1991) by ORIGIN
+    * Probably labeled so in Moby because of Ultima VI / Wing Commander II compilation
+
+* Xenocide (1990) by Micro Revelations
