@@ -154,7 +154,7 @@ If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORK
 
 
 
-L
+**L**
 * Lakers versus Celtics and the NBA Playoffs (1989) by Electronic Arts
     * SFX Only?
     * ´´´NBA.EXE CMS´´´
@@ -173,7 +173,7 @@ L
 
 
 
-M
+**M**
 * Miami Vice (1989) by Capstone Software
     * ???? copy SBC-CMS.COM to CMSDRV.COM
 * Mixed-Up Fairy Tales (1991) by Sierra On-Line
@@ -182,21 +182,21 @@ M
 
 
 
-N
+**N**
 * Night Shift (1990) by Attention to Detail Limited
     * ´´´IML.EXE G´´´
 * NY Warriors (1991) by Synergistic Software
 
 
 
-O
+**O**
 * Oil's Well (1990) by Banana Development
 * Operation Wolf (1989) by Taito
     * Delete ´´´OWCONFIG.DAT´´´ and run ´´´WOLF.EXE R´´´
 
 
 
-P
+**P**
 * Paku Paku (2011) by Paladin Systems North
     * ´´´PAKU.EXE /cms´´´
 
@@ -221,7 +221,7 @@ P
 
 
 
-Q
+**Q**
 * QIX (1989) by Taito
     * Delete ´´´CONFIG.DAT´´´ and run ´´´QIX.COM R´´´
 
@@ -230,7 +230,7 @@ Q
 
 
 
-R
+**R**
 * Rambo III (1989) by Taito
     * Delete ´´´CONFIG.DAT´´´ and run ´´´RAMBO.EXE R´´´
 
@@ -239,7 +239,7 @@ R
 
 
 
-S
+**S**
 * Secret of Monkey Island, The (1990) by Lucasfilm Games LLC
     * ´´´MONKEY.COM G´´´
     * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
@@ -271,7 +271,7 @@ S
 
 
 
-T
+**T**
 * Test Drive III - The Passion (1990) by Accolade
     * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
 * Times of Lore (1989) by ORIGIN
@@ -279,36 +279,36 @@ T
 
 
 
-U
+**U**
 * Ultima VI - The False Prophet (1990) by ORIGIN
     * The games doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 50Mhz
 
 
 
-V
+**V**
 * Vengeance of Excalibur (1991) by Synergistic Software
 
 
 
-W
+**W**
 * Windwalker (1990) by ORIGIN
     * ´´´WIND.EXE CMS´´´
 
 * Wolf Pack (1990) by NovaLogic
     * ´´´WOLFPACK.EXE R´´´ (not detected but works anyway)
 
-
+_ _ _
 
 ## Games List - Sound NOT WORKING
 
-B
+**B**
 * Breach 2 (1990) by Omnitrend Software
     * Autodetect conflict? Probably needs to be patched.
     * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as all of the games in WORKING category
 
 
 
-D
+**D**
 * Death Knights of Krynn (1991) by Strategic Simulations
     * Autodetect conflict? Probably needs to be patched.
     * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as all of the games in WORKING category
