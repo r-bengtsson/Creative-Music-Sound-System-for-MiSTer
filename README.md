@@ -18,7 +18,7 @@ For some games, it is required to pass on commands to the main EXE. I have creat
 
 If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORKING, then it could be one of several problems:
 
-1. Sound drivers were not shipped at release, but released later (Mostly Sierra Games). Check install directory for files with CMS in it. I have included the drivers I found in the Files/Game Drivers folder.
+1. Sound drivers were not shipped at release, but released later (mostly Sierra games). Check install directory for files with CMS in it. I have included the drivers I found in the Files/Game Drivers folder.
 
 2. Some games doesn't install all sound drivers to hdd when installed, but only the chosen sound driver. Try to reinstall and choose the Creative Music System / Game Blaster driver.
 
