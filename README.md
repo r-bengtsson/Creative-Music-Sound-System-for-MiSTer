@@ -1,13 +1,29 @@
 # Creative Music Sound System / Game Blaster information for the ao486 core in the MiSTer project
 
-A place to gather information on how to get games compatible with the CMS/Game Blaster sound card to output sound on the MiSTer ao486 core (Sound Blaster 2.0 with CMS)
+A place to gather information on how to get games compatible with the CMS/Game Blaster sound card to output CMS sound on the MiSTer ao486 core.
 
 Most information has been gathered from these sources:
 
 * https://nerdlypleasures.blogspot.com/2012/10/all-you-ever-wanted-to-know-about.html
 * https://www.vogons.org/viewtopic.php?t=58927
 
+
+
 ## Information
+
+For the majority of the games that support CMS, it is only needed to configure the game correctly via the SETUP/INSTALL/CONFIG.
+For some games, it is required to pass on commands to the main EXE.
+
+If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORKING, then it could be one of several problems:
+    1 Sound drivers were not shipped at release, but released later (Mostly Sierra Games). Check install directory for files with CMS in it. I have included the drivers I found in the ´´´Files/Game Drivers´´´ folder
+
+    2 Some games doesn't install all sound drivers to hdd when installed, but only the chosen sound driver. Try to reinstall and choose the Creative Music System / Game Blaster driver.
+
+    3 The game uses an autodetection scheme that overides chosen driver, it often chooses Adlib instead of CMS. If this is the case, then you'll need to patch out the autodetection. Luckily, most of those games are patched in this project: [VOGONS.org]( https://www.vogons.org/viewtopic.php?t=58927). I have included the patches in the ´´´Files/Game Patches´´´ folder
+
+    4 Some games require you to run the CMSDRV.COM/SBC-CMS.COM driver before launching the game. The driver can be unloaded by adding /U command when relaunching the driver
+    
+    5 If none of above options work, then you probably have the wrong version of the game
 
 
 
@@ -132,6 +148,9 @@ Most information has been gathered from these sources:
 
 L
 * Lakers versus Celtics and the NBA Playoffs (1989) by Electronic Arts
+    * SFX Only?
+    * ´´´NBA.EXE CMS´´´
+
 * Laura Bow 1: The Colonel's Bequest (1989) by Sierra On-Line
 * Laura Bow 2: The Dagger of Amon Ra (1992) by Sierra On-Line
 * Leisure Suit Larry 1: In the Land of the Lounge Lizards (1991) by Sierra On-Line
@@ -142,11 +161,13 @@ L
 * Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work (1991) by Sierra On-Line
 * Les Manley: in Search for the King (1990) by Accolade
 * Loom (1990) by Lucasfilm Games
+    * ´´´LOOM.EXE G´´´
 
 
 
 M
 * Miami Vice (1989) by Capstone Software
+    * ???? copy SBC-CMS.COM to CMSDRV.COM
 * Mixed-Up Fairy Tales (1991) by Sierra On-Line
 * Mixed-Up Mother Goose (1991) by Sierra On-Line
     * SCI and VGA version only, not AGI
@@ -155,6 +176,7 @@ M
 
 N
 * Night Shift (1990) by Attention to Detail Limited
+    * ´´´IML.EXE G´´´
 * NY Warriors (1991) by Synergistic Software
 
 
@@ -162,12 +184,17 @@ N
 O
 * Oil's Well (1990) by Banana Development
 * Operation Wolf (1989) by Taito
+    * Delete ´´´OWCONFIG.DAT´´´ and run ´´´WOLF.EXE R´´´
 
 
 
 P
 * Paku Paku (2011) by Paladin Systems North
+    * ´´´PAKU.EXE /cms´´´
+
 * PGA Tour Golf (1990) by Sterling Silver Software
+    * Patch needed to remove autodetection: ´´´GOLF.EXE at HEX 267 | 0F --> 02´´´ (patch by NewRisingSun)
+
 * Police Quest - In Pursuit of the Death Angel (1992) by Sierra On-Line
     * VGA only, not AGI
 
@@ -176,14 +203,18 @@ P
 * Power Drift (1990) by SEGA
 * Prince of Persia (1990) by Brøderbund Software
     * Version 1.0
-    * Use POPKB.COM for sound correction on faster computers
+    * ´´´PRINCE.EXE Gblast´´´
+    * Use ´´´POPKB.COM Gblast´´´ for sound correction on faster computers
 
 * Puzznic (1990) by Taito
+    * Delete ´´´CONFIG.DAT´´´ and run ´´´PUZZNIC.EXE R´´´
 
 
 
 Q
 * QIX (1989) by Taito
+    * Delete ´´´CONFIG.DAT´´´ and run ´´´QIX.COM R´´´
+
 * Quest for Glory I - So You Want To Be A Hero (1992) by Sierra On-Line
 * Quest for Glory II - Trial by Fire (1990) by Sierra On-Line
 
@@ -191,14 +222,21 @@ Q
 
 R
 * Rambo III (1989) by Taito
+    * Delete ´´´CONFIG.DAT´´´ and run ´´´RAMBO.EXE R´´´
+
 * Rastan (1990) by Taito
+    * Delete ´´´CONFIG.DAT´´´ and run ´´´RASTAN.EXE R´´´
 
 
 
 S
 * Secret of Monkey Island, The (1990) by Lucasfilm Games LLC
+    * ´´´MONKEY.COM G´´´
+
 * Shanghai II - Dragon's  Eye (1990) by Activision
 * Silpheed (1989) by Game Arts Co
+    * Only version 2.2 and up
+
 * Sorcerian (1991) by Nihon Falcom Corp.
 * Space Quest - The Sarien Encounter (1991) by Sierra On-Line
     * SCI version only, not AGI
@@ -207,7 +245,14 @@ S
 * Spirit of Excalibur (1990) by Synergistic Software
 * Spot (1991) by Virgin
 * Star Control (1990) by Toys for Bob
+    * Patch needed to remove autodetection: ´´´GOLF.EXE´´´ (patch by Scali)
+        * ´´´HEX 685D | 74 26 --> 90 90´´´
+        * ´´´HEX 6870 | 75 E2 --> 90 90´´´
+    * ´´´STARCON.EXE /S:CMS´´´
+
 * Stormovik SU-25 - Soviet Attack Fighter (1990) by Electronic Arts
+    * ´´´SU25.EXE CMS´´´
+
 * Strike Aces (1990) by Vektor Grafix
     * NOT Fighter Bomber
 
@@ -231,7 +276,10 @@ V
 
 W
 * Windwalker (1990) by ORIGIN
+    * ´´´WIND.EXE CMS´´´
+
 * Wolf Pack (1990) by NovaLogic
+    * ´´´WOLFPACK.EXE R´´´ (not detected but works anyway)
 
 
 
