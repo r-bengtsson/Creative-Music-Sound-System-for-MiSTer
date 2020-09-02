@@ -23,6 +23,7 @@ If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORK
 2. Some games doesn't install all sound drivers to hdd when installed, but only the chosen sound driver. Try to reinstall and choose the Creative Music System / Game Blaster driver.
 
 3. The game uses an autodetection scheme that overides chosen driver, it often chooses Adlib instead of CMS. If this is the case, then you'll need to patch out the autodetection. Luckily, most of those games are patched in this project: [VOGONS.org](https://www.vogons.org/viewtopic.php?t=58927). I have included the patches in the Files/Game Patches folder.
+**REMEMBER TO MAKE BACKUP OF YOUR ORIGINAL FILES**
 
 5. Some games require you to run the CMSDRV.COM/SBC-CMS.COM driver before launching the game. The driver can be unloaded by adding /U command when relaunching the driver. Drivers can be found in the Files/System Drivers folder.
 
@@ -37,7 +38,7 @@ A user named Tronix on the Vogons forum has made a midi driver using the Miles S
 It involves a little more work to get those games working.
 Checkout the link below to see an example:
 
-* [Warcraft 2](https://www.youtube.com/watch?v=RM3cuSSXbrE).
+* [Warcraft 2](https://www.youtube.com/watch?v=RM3cuSSXbrE)
 
 You can find more information about that in the [VOGONS.org forum](https://www.vogons.org/viewtopic.php?f=24&t=43553&p=423974).
 
@@ -49,6 +50,7 @@ _ _ _
 
 **A**
 * Airball (1987) by MicroDeal
+    * Only SFX
     * ´´´AIRBALL.EXE /CMS´´´
 
 * Altered Destiny (1990) by Accolade
@@ -273,7 +275,7 @@ _ _ _
 
 * Spot (1991) by Virgin
 * Star Control (1990) by Toys for Bob
-    * Patch needed to remove autodetection: ´´´GOLF.EXE´´´ (patch by Scali)
+    * Patch needed to remove autodetection: ´´´STARCON.EXE´´´ (patch by Scali)
         * ´´´HEX 685D | 74 26 --> 90 90´´´
         * ´´´HEX 6870 | 75 E2 --> 90 90´´´
     * ´´´STARCON.EXE /S:CMS´´´
