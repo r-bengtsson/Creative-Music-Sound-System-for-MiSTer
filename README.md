@@ -1,6 +1,6 @@
-# Creative Music Sound System / Game Blaster information for the ao486 core in the MiSTer project
+# Creative Music Sound System / Game Blaster information for MiSTer ao486 core
 
-A place to gather information on how to get games compatible with the CMS/Game Blaster sound card to output CMS sound on the MiSTer ao486 core.
+Information on how to get CMS/GB sound working on compatible games on the MiSTer ao486 core.
 
 **If you know of any other game that works, or how to get it to work, please dont hesitate to contact me in at the [MiSTer FPGA forum](https://misterfpga.org/viewforum.php?f=13) (chimaera).**
 
