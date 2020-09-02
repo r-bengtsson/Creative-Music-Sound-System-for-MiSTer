@@ -2,6 +2,8 @@
 
 A place to gather information on how to get games compatible with the CMS/Game Blaster sound card to output CMS sound on the MiSTer ao486 core.
 
+If you know of any other game that works, or how to get it to work, please dont hesitate to contact me.
+
 Most information has been gathered from these sources:
 
 * [Nerdly Pleasures](https://nerdlypleasures.blogspot.com/2012/10/all-you-ever-wanted-to-know-about.html)
@@ -12,18 +14,19 @@ Most information has been gathered from these sources:
 ## Information
 
 For the majority of the games that support CMS, it is only needed to configure the game correctly via the SETUP/INSTALL/CONFIG.
-For some games, it is required to pass on commands to the main EXE.
+For some games, it is required to pass on commands to the main EXE. I have created .BATs for these games, look in the Files/Game BATs folder.
 
 If you cannot get CMS sound to work on any of the games listed as CONFIRMED WORKING, then it could be one of several problems:
-1. Sound drivers were not shipped at release, but released later (Mostly Sierra Games). Check install directory for files with CMS in it. I have included the drivers I found in the Files/Game Drivers folder
+
+1. Sound drivers were not shipped at release, but released later (Mostly Sierra Games). Check install directory for files with CMS in it. I have included the drivers I found in the Files/Game Drivers folder.
 
 2. Some games doesn't install all sound drivers to hdd when installed, but only the chosen sound driver. Try to reinstall and choose the Creative Music System / Game Blaster driver.
 
-3. The game uses an autodetection scheme that overides chosen driver, it often chooses Adlib instead of CMS. If this is the case, then you'll need to patch out the autodetection. Luckily, most of those games are patched in this project: [VOGONS.org](https://www.vogons.org/viewtopic.php?t=58927). I have included the patches in the Files/Game Patches folder
+3. The game uses an autodetection scheme that overides chosen driver, it often chooses Adlib instead of CMS. If this is the case, then you'll need to patch out the autodetection. Luckily, most of those games are patched in this project: [VOGONS.org](https://www.vogons.org/viewtopic.php?t=58927). I have included the patches in the Files/Game Patches folder.
 
-4. Some games require you to run the CMSDRV.COM/SBC-CMS.COM driver before launching the game. The driver can be unloaded by adding /U command when relaunching the driver
+5. Some games require you to run the CMSDRV.COM/SBC-CMS.COM driver before launching the game. The driver can be unloaded by adding /U command when relaunching the driver. Drivers can be found in the Files/System Drivers folder.
 
-5. If none of above options work, then you probably have the wrong version of the game
+6. If none of above options work, then you probably have the wrong version of the game.
 
 
 
@@ -287,9 +290,12 @@ W
 
 B
 * Breach 2 (1990) by Omnitrend Software
-    * No CMS sound if SB+CMS, autodetect conflict? Probably needs to be patched.
+    * Autodetect conflict? Probably needs to be patched.
+    * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as all of the games in WORKING category
 
 
 
 D
 * Death Knights of Krynn (1991) by Strategic Simulations
+    * Autodetect conflict? Probably needs to be patched.
+    * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as all of the games in WORKING category
