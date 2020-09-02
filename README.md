@@ -313,14 +313,10 @@ _ _ _
 
 ## Games List - Sound NOT WORKING CORRECTLY
 
-**B**
 * Breach 2 (1990) by Omnitrend Software
     * Autodetect conflict? Probably needs to be patched.
     * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as the games in WORKING category
 
-
-
-**D**
 * Death Knights of Krynn (1991) by Strategic Simulations
     * Autodetect conflict? Probably needs to be patched.
     * Game works with sound in DOSBOX with sbtype=gb, but not sbtype=sb2 as the games in WORKING category
