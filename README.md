@@ -221,7 +221,7 @@ _ _ _
 
 **M**
 * Miami Vice (1989) by Capstone Software
-    * ???? copy SBC-CMS.COM to CMSDRV.COM
+    * Copy SBC-CMS.COM to CMSDRV.COM (Probably not needed in ao486, a must on real SB1/SB2 + CMS though)
 * Mixed-Up Fairy Tales (1991) by Sierra On-Line
 * Mixed-Up Mother Goose (1991) by Sierra On-Line
     * SCI and VGA version only, not AGI
