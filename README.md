@@ -81,7 +81,7 @@ _ _ _
 
 * Budokan: The Martial Spirit (1989) by Electronic Arts
     * `BUDO.COM CMS`
-    [Download .BAT](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20BATs/Budokan%20-%20The%20Martial%20Spirit%20(1989).zip)
+    * [Download .BAT](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20BATs/Budokan%20-%20The%20Martial%20Spirit%20(1989).zip)
 
 
 
