@@ -192,7 +192,6 @@ _ _ _
 
 **L**
 * Lakers versus Celtics and the NBA Playoffs (1989) by Electronic Arts
-    * SFX Only?
     * `NBA.EXE CMS`
     * [Download .BAT](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20BATs/Lakers%20versus%20Celtics%20and%20the%20NBA%20Playoffs%20(1989).zip)
 
