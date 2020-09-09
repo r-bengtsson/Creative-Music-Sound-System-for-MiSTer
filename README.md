@@ -67,7 +67,7 @@ _ _ _
 
 **B**
 * Bad Blood (1990) by ORIGIN
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 * Battle Chess II: Chinese Chess (1990) by Interplay
     * Only SFX
@@ -108,7 +108,7 @@ _ _ _
     * Patch needed to set CMS: `VIPER.EXE at HEX 139D3 | FF --> 02` (patch by NewRisingSun)
     * [Download Patch](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20Patches/Day%20of%20the%20Viper%20(1990).zip)
     * Adlib needs Sound Blaster Drivers
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 * Don't Go Alone (1989) by Sterling Silver Software
 
@@ -122,7 +122,7 @@ _ _ _
 
 **F**
 * F-14 Tomcat (1990) by Activision
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 
 
@@ -136,7 +136,7 @@ _ _ _
     * Patch needed to set CMS: `GB.EXE at HEX 216D | 0F --> 02` (patch by NewRisingSun)
     * [Download Patch](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20Patches/Gunboat%20(1990).zip)
     * Adlib needs Sound Blaster Drivers
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 
 
@@ -156,7 +156,7 @@ _ _ _
     * Only EGA version 1.4, run `INDY3.EXE GAMEB`
     * [Download .BAT (EGA)](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20BATs/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure%20%5BEGA%5D%20v1.4%20(1989).zip)
     * Adlib option seems to crash? `Integer divided by 0`
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 
 
@@ -261,7 +261,7 @@ _ _ _
 
 * Police Quest 3 - The Kindred (1991) by Sierra On-Line
 * Power Drift (1990) by SEGA
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 15Mhz
 
 * Prince of Persia (1990) by Brøderbund Software
     * Version 1.0
@@ -299,7 +299,7 @@ _ _ _
 **S**
 * Secret of Monkey Island, The (1990) by Lucasfilm Games LLC
     * `MONKEY.COM G`
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set speed 30Mhz
     * [Download .BAT](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20BATs/Secret%20of%20Monkey%20Island%2C%20The%20(1990).zip)
 
 * Shanghai II - Dragon's  Eye (1990) by Activision
@@ -314,7 +314,7 @@ _ _ _
 
 * Space Quest IV - Roger Wilco and the Time Rippers (1991) by Sierra On-Line
 * Spirit of Excalibur (1990) by Synergistic Software
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 * Spot (1991) by Virgin
 * Star Control (1990) by Toys for Bob
@@ -326,25 +326,27 @@ _ _ _
 
 * Stormovik SU-25 - Soviet Attack Fighter (1990) by Electronic Arts
     * `SU25.EXE CMS`
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set speed 30Mhz
     * [Download .BAT](https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer/blob/master/Files/Game%20BATs/Stormovik%20SU-25%20-%20Soviet%20Attack%20Fighter%20(1990).zip)
 
 * Strike Aces (1990) by Vektor Grafix
     * NOT Fighter Bomber
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set speed 30Mhz
 
 
 
 **T**
 * Test Drive III - The Passion (1990) by Accolade
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 * Times of Lore (1989) by ORIGIN
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 25Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 
 
 **U**
 * Ultima VI - The False Prophet (1990) by ORIGIN
-    * The game doesn't seem to like fast CPU speeds, use a slowdown program to set speed to 50Mhz
+    * The game doesn't seem to like fast CPU speeds, use SYSCTL to set 30Mhz
 
 
 
